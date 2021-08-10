@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
 <h1 align="center">
-  <img alt="img" title="img" src="img.png" width="100%" />
+  <img alt="img" title="img" src="img.png" width="80%" height="50%"/>
 </h1>
 
 
