@@ -1,5 +1,5 @@
 <h1 align="center">
-  Título
+  Flappy Bird
 </h1>
 
 <br></br>
@@ -7,13 +7,12 @@
 <p align="center">
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
 <h1 align="center">
-  <img alt="" title="" src="" width="100%" />
+  <img alt="img" title="img" src="img.png" width="100%" />
 </h1>
 
 
@@ -23,41 +22,33 @@
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/
+$ git clone https://github.com/diaspd/Flappy-Bird.git
 $ cd 
 ```
 
 Follow the steps below:
 ```bash
 # Install the dependencies
-$ npm i
+$ pip intall random
+$ pip intall os
+$ pip intall random
 
 # Start the project
-$ npm start
+$ run the file on your terminal
 ```
-The app will be available for access on your browser at http://localhost:3000
 
 <br></br>
 
 ## 💻 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com a seguinte tecnologia:
 
-- 
-- 
-- 
--
--
--
+- Python
 
 
 ## 📄 Project
-💰
+💰A flappy bird game recreation
 
-<br></br>
-
-## 🔖 Layout
-📄
 
 <br></br>
 
