@@ -41,7 +41,7 @@ $ run the file on your terminal
 
 ## 💻 Technologies
 
-Esse projeto foi desenvolvido com a seguinte tecnologia:
+This project was developed with the following technologies:
 
 - Python
 
