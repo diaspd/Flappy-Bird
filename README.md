@@ -45,12 +45,12 @@ This project was developed with the following technologies:
 
 - Python
 
+<br> </br> 
 
 ## 📄 Project
-💰A flappy bird game recreation
+A flappy bird game recreation 💰
 
-
-<br></br>
+<br> </br>
 
 Feito com ♥ by Pedro Dias (😎)<br></br>
 https://www.instagram.com/dias_pdr/ <br></br>
