@@ -2,7 +2,6 @@
   Flappy Bird
 </h1>
 
-<br></br>
 
 <p align="center">
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
