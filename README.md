@@ -47,7 +47,7 @@ This project was developed with the following technologies:
 <br> </br> 
 
 ## 📄 Project
-A flappy bird game recreation.
+💰 A flappy bird game recreation.
 
 <br> </br>
 
