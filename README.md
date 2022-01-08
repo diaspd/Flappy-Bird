@@ -51,12 +51,12 @@ This project was developed with the following technologies:
 
 <br> </br>
 
-Feito com ♥ by Pedro Dias (😎)<br>
-https://www.instagram.com/dias_pdr/ <br>
-https://www.facebook.com/PedroDias24/<br>
-https://twitter.com/diaspdr_1<br>
-https://www.twitch.tv/diasgm_pdr<br>
+Feito com ♥ by Pedro Dias (😎)<br></br>
+https://www.instagram.com/dias_pdr/ <br></br>
+https://www.facebook.com/PedroDias24/<br></br>
+https://twitter.com/diaspdr_1<br></br>
+https://www.twitch.tv/diasgm_pdr<br></br>
 
 Se puder dar uma estrelinha, eu agradeço 🤩
-<br>
+
 If you can give a little star, I appreciate it 🤩
