@@ -30,7 +30,6 @@ Follow the steps below:
 # Install the dependencies
 $ pip intall random
 $ pip intall os
-$ pip intall random
 
 # Start the project
 $ run the file on your terminal
