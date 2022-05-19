@@ -40,8 +40,9 @@ $ run the file on your terminal
 ## 💻 Technologies
 
 This project was developed with the following technologies:
-
+<b>
 - Python
+</b>
 
 <br> </br> 
 
